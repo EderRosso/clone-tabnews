@@ -1,7 +1,5 @@
 function Home() {
-  return (
-    <h1>Sofia, te amo. Se você me ama, faz um coração com as mãos!!!</h1>
-  );
+  return <h1>Sofia, te amo. Se você me ama, faz um coração com as mãos!!!</h1>;
 }
 
 function teste() {
@@ -9,6 +7,6 @@ function teste() {
 }
 
 function teste2() {
-  console.log("indenta��o errada");
+  console.log("indenta��o errada");
 }
 export default Home;
