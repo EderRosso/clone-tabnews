@@ -7,6 +7,6 @@ function teste() {
 }
 
 function teste2() {
-  console.log("indenta��o errada");
+  console.log("indentação errada");
 }
 export default Home;
